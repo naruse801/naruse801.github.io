@@ -20,3 +20,8 @@ element.style {
     padding-bottom: 5px;
     display: block;
 }
+
+a {
+    color: #333;
+    text-decoration: underline;
+}
