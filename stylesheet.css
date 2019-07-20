@@ -12,3 +12,11 @@ wrapper {
 element.style {
     background-color: rgb(15, 204, 203);
 }
+
+#nav_genre li a {
+    text-decoration: none;
+    margin-top: 1px;
+    margin-left: 2px;
+    padding-bottom: 5px;
+    display: block;
+}
