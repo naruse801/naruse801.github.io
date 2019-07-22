@@ -1,1 +1,13 @@
+element.style {
+}
 
+header {
+  position: fixed;
+  z-index: 10;
+  background-color: #fff;
+  width: 100%;
+}
+
+article,aside,details,figcaption,figure,footer,header,hgroup,summary {
+  display: block;
+}
