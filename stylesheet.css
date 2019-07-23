@@ -11,3 +11,15 @@ header {
 article,aside,details,figcaption,figure,footer,header,hgroup,summary {
   display: block;
 }
+
+code {
+  padding: 2px 4px;
+  font-size:90%
+  color:#c7254e;
+  background-color:#f9f2f4;
+  border-radius:4px;
+}
+
+code.kbd,pre,samp {
+  font-family:Menlo,Monaco,Consolas,"Courier New",monospace;
+}
