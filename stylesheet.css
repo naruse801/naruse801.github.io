@@ -1,7 +1,14 @@
-.parent {
-  width: 100px;
+.grandpa {
+  width:200px;
+  background:silver;
 }
 
-p {
+.parent {
+  width: 50%;
+  background:yellow;
+}
+
+.parent p {
+  width:50%;
   background:orange;
 }
