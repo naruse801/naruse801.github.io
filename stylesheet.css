@@ -1,14 +1,14 @@
+
 .grandpa {
   width:200px;
   background:silver;
 }
-
 .parent {
+  /*200pxの半分で100pxに*/
   width: 50%;
-  background:yellow;
+  background: yellow;
 }
-
 .parent p {
-  width:50%;
+  width: 50%;
   background:orange;
 }
