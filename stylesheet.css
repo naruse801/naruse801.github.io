@@ -1,26 +1,11 @@
-body, h2, h3, h4, p {
-  font-family: 'Noto Sans JP', sans-serif;
-  line-height: 1.6;
-  letter-spacing: 0.05rem
-  color:#3F434A
-}
-
-body {
-  margin:0;
-  padding: 0;
-  overflow-x: hidden;
-  min-width: 320px;
-  background: #fff;
-  font-size: 14px;
-}
-  
-body, html {
-  height: 100%;
-}
-
-
-.pages_controller.home_action section.header {
-  background-image: url(https://s3-ap-northeast-1.amazonaws.com/flower-production-assets/assets/web/home/bg_header_pink-4704d42ed44908fb061e80afc515a93ab2fcbfd605c2580de486a4d980b2115a.jpg);
-  background-position:center bottom;
-  background-repeat: no-repeat;
+.logo{
+  margin:0 auto 16px;
+  width: 131px;
+  height: 116px;
+  background-image: url(https://s3-ap-northeast-1.amazonaws.com/flower-production-assets/assets/web/home/header_logo-0dbc9cb7c037472d3bf71fde0c1d3efd708c2c2547e9ed3e420051ca826cdad8.png);
+  background-size: contain;
+  background-position: center;
+  backgrounf-repeat: no-repeat;
+  magrin-top: 5vh;
+  animation: fadeIn 2s ease 0.2s 1 normal
 }
