@@ -1,14 +1,6 @@
-
-.grandpa {
-  width:1000px;
-  background:silver;
-}
-.parent {
-  /*200pxの半分で100pxに*/
-  width: 50%;
-  background: yellow;
-}
-.parent p {
-  width: 70%;
-  background:orange;
+body, h2, h3, h4, p {
+  font-family: 'Noto Sans JP', sans-serif;
+  line-height: 1.6;
+  letter-spacing: 0.05rem
+  color:#3F434A
 }
